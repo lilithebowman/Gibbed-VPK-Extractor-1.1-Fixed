@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gibbed.Valve.ExtractPackage", "Gibbed.Valve.ExtractPackage\Gibbed.Valve.ExtractPackage.csproj", "{B736E05A-E9D6-4E63-A292-39ADEE809BC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gibbed.Helpers", "Gibbed.Helpers\Gibbed.Helpers.csproj", "{5162A9FB-4DE1-4BBF-B7A2-5E8116AB0D26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gibbed.Valve.FileFormats", "Gibbed.Valve.FileFormats\Gibbed.Valve.FileFormats.csproj", "{2E79DD4C-F30F-4114-BA1A-45F997512BD0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B736E05A-E9D6-4E63-A292-39ADEE809BC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B736E05A-E9D6-4E63-A292-39ADEE809BC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B736E05A-E9D6-4E63-A292-39ADEE809BC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B736E05A-E9D6-4E63-A292-39ADEE809BC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5162A9FB-4DE1-4BBF-B7A2-5E8116AB0D26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5162A9FB-4DE1-4BBF-B7A2-5E8116AB0D26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5162A9FB-4DE1-4BBF-B7A2-5E8116AB0D26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5162A9FB-4DE1-4BBF-B7A2-5E8116AB0D26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E79DD4C-F30F-4114-BA1A-45F997512BD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E79DD4C-F30F-4114-BA1A-45F997512BD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E79DD4C-F30F-4114-BA1A-45F997512BD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E79DD4C-F30F-4114-BA1A-45F997512BD0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
