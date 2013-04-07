@@ -1,0 +1,12 @@
+I:\extractpackage3\Gibbed.Valve.ExtractPackage\obj\Debug\Gibbed.Valve.ExtractPackage.csprojResolveAssemblyReference.cache
+I:\extractpackage3\Gibbed.Valve.ExtractPackage\obj\Debug\Gibbed.Valve.ExtractPackage.Extractor.resources
+I:\extractpackage3\Gibbed.Valve.ExtractPackage\obj\Debug\Gibbed.Valve.ExtractPackage.Properties.Resources.resources
+I:\extractpackage3\Gibbed.Valve.ExtractPackage\obj\Debug\Gibbed.Valve.ExtractPackage.csproj.GenerateResource.Cache
+I:\extractpackage3\Gibbed.Valve.ExtractPackage\bin\Debug\Gibbed.Valve.ExtractPackage.exe
+I:\extractpackage3\Gibbed.Valve.ExtractPackage\bin\Debug\Gibbed.Valve.ExtractPackage.pdb
+I:\extractpackage3\Gibbed.Valve.ExtractPackage\bin\Debug\Gibbed.Valve.FileFormats.dll
+I:\extractpackage3\Gibbed.Valve.ExtractPackage\bin\Debug\Gibbed.Helpers.dll
+I:\extractpackage3\Gibbed.Valve.ExtractPackage\bin\Debug\Gibbed.Valve.FileFormats.pdb
+I:\extractpackage3\Gibbed.Valve.ExtractPackage\bin\Debug\Gibbed.Helpers.pdb
+I:\extractpackage3\Gibbed.Valve.ExtractPackage\obj\Debug\Gibbed.Valve.ExtractPackage.exe
+I:\extractpackage3\Gibbed.Valve.ExtractPackage\obj\Debug\Gibbed.Valve.ExtractPackage.pdb

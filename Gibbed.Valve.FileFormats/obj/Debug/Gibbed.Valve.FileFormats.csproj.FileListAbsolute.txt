@@ -1,0 +1,7 @@
+I:\extractpackage3\Gibbed.Valve.FileFormats\obj\Debug\Gibbed.Valve.FileFormats.csprojResolveAssemblyReference.cache
+I:\extractpackage3\Gibbed.Valve.FileFormats\bin\Debug\Gibbed.Valve.FileFormats.dll
+I:\extractpackage3\Gibbed.Valve.FileFormats\bin\Debug\Gibbed.Valve.FileFormats.pdb
+I:\extractpackage3\Gibbed.Valve.FileFormats\bin\Debug\Gibbed.Helpers.dll
+I:\extractpackage3\Gibbed.Valve.FileFormats\bin\Debug\Gibbed.Helpers.pdb
+I:\extractpackage3\Gibbed.Valve.FileFormats\obj\Debug\Gibbed.Valve.FileFormats.dll
+I:\extractpackage3\Gibbed.Valve.FileFormats\obj\Debug\Gibbed.Valve.FileFormats.pdb
